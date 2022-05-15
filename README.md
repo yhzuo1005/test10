@@ -4,7 +4,7 @@ This repo contains the implementation of "Multi-Perspective Interactive Model fo
 ## Usage
 
 ### 0.Requirement
-python 3.6
+python 3.6</br>
 numpy==1.16.4
 pandas==0.22.0
 tensorboard==1.12.0
