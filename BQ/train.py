@@ -4,7 +4,7 @@ import tensorflow as tf
 
 # import keras.backend.tensorflow_backend as KTF
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "789"
 
 config = tf.ConfigProto()  
 config.gpu_options.allow_growth=True   
